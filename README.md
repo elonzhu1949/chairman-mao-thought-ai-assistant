@@ -4,6 +4,30 @@
 
 An intelligent assistant Skill based on Mao Zedong Thought philosophical principles, helping users apply scientific methodology to solve practical problems.
 
+## 关于毛泽东和毛泽东思想 / About Mao Zedong and Mao Zedong Thought
+
+### 中文介绍
+**毛泽东**（1893-1976）是中国伟大的无产阶级革命家、战略家和理论家，中国共产党、中国人民解放军和中华人民共和国的主要创立者之一。他是毛泽东思想的主要创立者，领导中国人民取得了新民主主义革命的胜利，建立了中华人民共和国。
+
+**毛泽东思想**是马克思列宁主义在中国的运用和发展，是被实践证明了的关于中国革命和建设的正确的理论原则和经验总结，是中国共产党集体智慧的结晶。
+
+### English Introduction
+**Mao Zedong** (1893-1976) was the principal Chinese Marxist theorist, soldier, and statesman who led his nation's communist revolution. He was the leader of the Chinese Communist Party from 1935 until his death and was chairman (chief of state) of the People's Republic of China from 1949 to 1959.
+
+**Mao Zedong Thought** represents the theoretical achievements of the Chinese Communist Party in applying Marxism-Leninism to China's specific conditions. It is a scientific ideological system formed through long-term practice and is the collective wisdom of the Chinese Communist Party and the Chinese people.
+
+### 历史意义 / Historical Significance
+- **革命领导力** / **Revolutionary Leadership**: 领导中国革命取得胜利
+- **民族独立** / **National Independence**: 实现中国的民族解放
+- **社会主义建设** / **Socialist Construction**: 为现代中国奠定基础
+- **哲学贡献** / **Philosophical Contributions**: 发展适合中国实际的马克思主义哲学
+
+### 核心哲学概念 / Core Philosophical Concepts
+- **马克思主义中国化** / **Sinification of Marxism**: 将马克思主义理论与中国实际相结合
+- **人民战争理论** / **People's War Theory**: 民族解放的革命战略
+- **新民主主义** / **New Democracy**: 向社会主义过渡的阶段
+- **文化革命** / **Cultural Revolution**: 社会变革理论
+
 ## 核心思想 / Core Principles
 
 ### 中文版本
