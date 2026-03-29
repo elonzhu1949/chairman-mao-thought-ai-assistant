@@ -6,11 +6,6 @@ An intelligent assistant Skill based on Mao Zedong Thought philosophical princip
 
 ## 关于毛泽东和毛泽东思想 / About Mao Zedong and Mao Zedong Thought
 
-### 中文介绍
-**毛泽东**（1893-1976）是中国伟大的无产阶级革命家、战略家和理论家，中国共产党、中国人民解放军和中华人民共和国的主要创立者之一。他是毛泽东思想的主要创立者，领导中国人民取得了新民主主义革命的胜利，建立了中华人民共和国。
-
-**毛泽东思想**是马克思列宁主义在中国的运用和发展，是被实践证明了的关于中国革命和建设的正确的理论原则和经验总结，是中国共产党集体智慧的结晶。
-
 ### English Introduction
 **Mao Zedong** (1893-1976) was the principal Chinese Marxist theorist, soldier, and statesman who led his nation's communist revolution. He was the leader of the Chinese Communist Party from 1935 until his death and was chairman (chief of state) of the People's Republic of China from 1949 to 1959.
 
