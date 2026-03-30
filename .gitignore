@@ -9,6 +9,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.pyc
 
 # IDE
 .vscode/
@@ -29,3 +30,9 @@ Thumbs.db
 # Temporary files
 temp/
 tmp/
+
+# Project-specific exclusions
+learning-materials/
+生成PDF的替代方案.md
+generate_pdfs.py
+test_permission.txt

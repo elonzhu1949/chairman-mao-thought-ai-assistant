@@ -1,64 +1,168 @@
-# Chairman Mao Thought AI Assistant
+# Chairman Mao Thought AI Assistant v2.0.0
 
-An intelligent assistant Skill based on Mao Zedong Thought philosophical principles, helping users apply scientific methodology to solve practical problems.
+**An intelligent analytical engine Skill based on Mao Zedong Thought philosophical principles**, transforming abstract philosophical concepts into actionable analytical frameworks for practical problem-solving.
 
-## About Mao Zedong and Mao Zedong Thought
+## 🚀 Major v2.0.0 Upgrade
 
-**Mao Zedong** (1893-1976) was the principal Chinese Marxist theorist, soldier, and statesman who led his nation's communist revolution. He was the leader of the Chinese Communist Party from 1935 until his death and was chairman (chief of state) of the People's Republic of China from 1949 to 1959.
+### Three-Phase Comprehensive Upgrade Completed
 
-**Mao Zedong Thought** represents the theoretical achievements of the Chinese Communist Party in applying Marxism-Leninism to China's specific conditions. It is a scientific ideological system formed through long-term practice and is the collective wisdom of the Chinese Communist Party and the Chinese people.
+#### Phase 1: Knowledge Foundation
+- **24 in-depth reference documents** covering core philosophy, strategic methods, and practical applications
+- **6 major knowledge modules** with systematic organization
+- **Comprehensive philosophical principles** foundation
 
-### Historical Significance
-- **Revolutionary Leadership**: Led the Chinese Revolution to victory in 1949
-- **National Independence**: Achieved China's liberation from foreign domination
-- **Socialist Construction**: Established the foundation for modern China
-- **Philosophical Contributions**: Developed practical Marxist philosophy for China
+#### Phase 2: Architecture Redesign
+- **Upgraded from flat principles list to 6-layer knowledge system structure**
+- **Scenario-based principle recommendation matrix** with 15 application scenarios
+- **3 specialized output templates** for different analysis needs
 
-### Core Philosophical Concepts
-- **Sinification of Marxism**: Adapting Marxist theory to Chinese conditions
-- **People's War Theory**: Revolutionary strategy for national liberation
-- **New Democracy**: Transitional stage to socialism
-- **Cultural Revolution**: Social transformation theory
+#### Phase 3: Differentiation Features
+- **Script v2.0 with enhanced analytical capabilities**
+- **Historical case analogy system** with 7 key precedents
+- **Anti-dogmatism self-check mechanism** to prevent mechanical application
 
-## Core Principles
+## 🏗️ 6-Layer Knowledge System Architecture
 
-- **Seek Truth from Facts**: Analysis based on facts and data
-- **Mass Line**: Centered on user needs
-- **Independence and Self-Reliance**: Cultivating independent thinking
-- **Theory of Contradiction**: Identifying and resolving principal contradictions
-- **Theory of Practice**: Integrating theory with practice
+### 1. Core Philosophy Layer
+- Seek Truth from Facts
+- Theory of Contradiction
+- Theory of Practice
+- Mass Line
+- Independence and Self-Reliance
 
-## Key Features
+### 2. Strategic Methods Layer
+- Military Strategic Principles
+- United Front Strategy
+- Strategy and Tactics
+- Rural Areas Encircle Cities
 
-- Problem analysis and contradiction identification
-- Data-driven decision support
-- Mass line-based needs collection
-- Practice-oriented solution development
+### 3. Organizational Building Layer
+- Democratic Centralism
+- Criticism and Self-Criticism
+- Organizational Construction
+- Self-Revolution
 
-## Tech Stack
+### 4. Practical Methods Layer
+- Investigation and Research
+- Mass Work Methods
+- Typical Investigation and Pilot Promotion
 
-- WorkBuddy Skill framework
-- Modern AI technology
-- Data analysis tools
+### 5. Historical Cases Layer
+- Gutian Conference (1929)
+- Zunyi Conference (1935)
+- Yan'an Rectification (1942-1945)
+- Chongqing Negotiations (1945)
+- Three Major Campaigns (1948-1949)
+- Rural Areas Encircle Cities Practice
 
-## Project Structure
+### 6. Modern Applications Layer
+- Business Strategy Applications
+- Problem-Solving Methodology
+
+## 🔧 Core Features
+
+### 5-Step Analytical Engine
+1. **Scene Recognition** - Intelligent scenario identification
+2. **Contradiction Analysis** - Principal contradiction identification
+3. **Principle Matching** - Relevant philosophical principle matching
+4. **Historical Analogy** - Historical precedent analysis
+5. **Solution Generation** - Actionable solution development
+
+### 3 Output Templates
+- **Type A: Problem Analysis** - Detailed problem breakdown and analysis
+- **Type B: Strategic Decision** - Strategic planning and decision support
+- **Type C: Organizational Management** - Organizational structure and leadership guidance
+
+### Scenario Matrix
+- **15 application scenarios** covering business, management, and strategy
+- **Methodology mapping** for intelligent principle recommendations
+- **Context-aware analysis** based on scenario characteristics
+
+## 📁 Project Structure
 
 ```
-mao-thought-skill/
-├── SKILL.md              # Skill definition file
-├── scripts/              # Functional scripts
-├── references/           # Reference documents
-├── assets/              # Static resources
-└── examples/            # Usage examples
+mao-thought-skill-v2.0/
+├── SKILL.md              # 6-layer knowledge system Skill definition
+├── SKILL_EN.md           # English Skill definition
+├── scripts/              # Analytical engine scripts
+│   └── contradiction_analysis.py  # v2.0 enhanced contradiction analysis engine
+├── references/           # 24 in-depth reference documents
+│   ├── core-philosophy/  # Core philosophical principles
+│   ├── strategic-methods/ # Strategic methods
+│   ├── organizational/   # Organizational building
+│   ├── practical-methods/ # Practical methods
+│   ├── historical-cases/ # Historical cases
+│   └── modern-applications/ # Modern applications
+├── scenario-matrix.md    # 15-scenario principle recommendation matrix
+├── examples/            # Usage examples
+├── CHANGELOG.md         # Version changelog
+└── README*.md           # Multilingual documentation
 ```
 
-## Development Plan
+## 🚀 Quick Start
 
-1. Core functional module development
-2. User interface design
-3. Testing and optimization
-4. GitHub deployment
+### Installation and Usage
+
+```bash
+# Load Skill in WorkBuddy environment
+/mao-thinking-assistant
+
+# Use analytical engine
+python scripts/contradiction_analysis.py --scenario "strategic_decision" --input "your_problem_description"
+```
+
+### Core Analysis Process
+
+1. **Identify Problem Scenario** - Determine the appropriate application context
+2. **Apply Contradiction Analysis** - Identify principal and secondary contradictions
+3. **Match Philosophical Principles** - Select relevant Maoist principles
+4. **Reference Historical Analogies** - Learn from historical precedents
+5. **Generate Practical Solutions** - Develop actionable recommendations
+
+## 🔍 Technical Features
+
+### Intelligent Scene Recognition
+- **12 scenario keyword mappings** for automatic context detection
+- **Smart principle recommendation** based on scenario characteristics
+- **Historical case analogy** system for precedent analysis
+
+### Anti-dogmatism Self-Check Mechanism
+- **6 validation checks** to prevent mechanical application
+- **Practice-oriented validation** ensuring practical relevance
+- **Continuous improvement** feedback loop
+
+### Knowledge System Integrity
+- **Cross-layer knowledge association** for comprehensive analysis
+- **Principle application guidance** with practical examples
+- **Methodology systematization** for consistent results
+
+## 📚 Documentation Resources
+
+- **[SKILL_EN.md](SKILL_EN.md)** - Complete English Skill definition
+- **[SKILL.md](SKILL.md)** - Chinese Skill definition with 6-layer knowledge system
+- **[README.md](README.md)** - Bilingual overview documentation
+- **[README_ZH.md](README_ZH.md)** - Complete Chinese documentation
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and changes
+
+## 🌟 Application Value
+
+### Strategic Decision Support
+- **Complex problem analysis** with systematic methodology
+- **Contradiction identification and resolution** framework
+- **Strategic direction determination** with historical perspective
+
+### Organizational Management Optimization
+- **Organizational structure design** based on democratic centralism
+- **Team building guidance** with mass line principles
+- **Leadership development** through self-criticism practice
+
+### Problem-Solving Methodology
+- **Systematic thinking framework** for comprehensive analysis
+- **Practice-oriented solutions** with real-world applicability
+- **Continuous improvement mechanism** for ongoing optimization
 
 ---
 
-*"Seek Truth from Facts, Mass Line, Independence and Self-Reliance" - The Living Soul of Mao Zedong Thought*
+*"Closely integrating the theory of Marxism-Leninism with the practice of the Chinese revolution has always been the consistent ideological principle of our Party." - Mao Zedong*
+
+**v2.0.0 represents a major architectural upgrade from a simple principles checklist to a comprehensive analytical engine with systematic knowledge organization and practical application capabilities.**
