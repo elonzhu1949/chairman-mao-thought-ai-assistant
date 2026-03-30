@@ -1,10 +1,12 @@
-# 毛主席思想AI助手 v2.0.0 / Chairman Mao Thought AI Assistant v2.0.0
+# Chairman Mao Thought AI Assistant v2.0.0 / 毛主席思想AI助手 v2.0.0
 
-**基于毛泽东思想哲学原理的智能分析引擎Skill**，将抽象哲学原理转化为可操作的分析框架。
+**An Intelligent Analytical Framework for Strategic Decision-Making**
+**基于毛泽东思想哲学原理的智能分析引擎Skill**
 
-**An intelligent analytical engine Skill based on Mao Zedong Thought philosophical principles**, transforming abstract philosophical concepts into actionable analytical frameworks.
+Transform abstract philosophical concepts into actionable analytical frameworks using the systematic methodology of Mao Zedong Thought.
+将抽象哲学原理转化为可操作的分析框架，为复杂问题提供系统性解决方案。
 
-## 🚀 v2.0.0 重大升级 / Major v2.0.0 Upgrade
+## 🚀 Version 2.0.0 Major Enhancement / v2.0.0 重大升级
 
 ### 三阶段全面升级完成 / Three-Phase Comprehensive Upgrade Completed
 

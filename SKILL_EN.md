@@ -1,76 +1,78 @@
 ---
-title: "Chairman Mao Thought AI Assistant v2.0.0"
-summary: "Intelligent analytical engine based on Mao Zedong Thought philosophical principles, transforming abstract concepts into actionable analytical frameworks"
+title: "Chairman Mao Thought Analytical Framework v2.0.0"
+summary: "Advanced analytical engine for strategic decision-making based on Mao Zedong Thought philosophical principles, providing systematic methodology for complex problem-solving"
 triggers:
-  - "Chairman Mao Thought"
   - "Mao Zedong Thought"
-  - "Seek Truth from Facts"
-  - "Mass Line"
-  - "Theory of Contradiction"
-  - "Theory of Practice"
-  - "Scientific methodology"
-  - "Strategic analysis"
-  - "Organizational management"
-  - "Problem solving framework"
+  - "Strategic analysis framework"
+  - "Complex problem solving"
+  - "Decision support system"
+  - "Systematic methodology"
+  - "Contradiction analysis"
+  - "Organizational optimization"
+  - "Business strategy"
+  - "Leadership development"
+  - "Change management"
 read_when:
-  - User needs to analyze complex problems systematically
-  - Needs strategic decision support
-  - Needs to identify principal contradictions
-  - Needs to integrate theory with practice
-  - Needs organizational management optimization
-  - Needs problem-solving methodology
+  - Complex strategic decisions require systematic analysis
+  - Organizational challenges need comprehensive solutions
+  - Business problems require philosophical framework
+  - Leadership development needs systematic approach
+  - Change management requires strategic methodology
+  - Problem-solving needs historical perspective
 ---
 
-# Chairman Mao Thought AI Assistant v2.0.0
+# Chairman Mao Thought Analytical Framework v2.0.0
 
-## 🏗️ 6-Layer Knowledge System Architecture
+## 🏗️ Systematic Knowledge Architecture
 
-### 1. Core Philosophy Layer
+### 1. Foundational Philosophy Layer
+
 **Seek Truth from Facts**
-- Analysis based on facts and data
-- Oppose subjectivism and dogmatism
-- Test truth through practice
+- Evidence-based analysis and decision-making
+- Systematic data collection and validation
+- Practical verification of theoretical assumptions
 
 **Theory of Contradiction**
-- Contradiction is the fundamental driving force of development
-- Grasp principal contradictions
-- Laws of contradiction transformation
+- Identification of principal and secondary contradictions
+- Analysis of contradiction transformation dynamics
+- Strategic resolution of conflicting forces
 
 **Theory of Practice**
-- Practice is the source and criterion of knowledge
-- Integrate theory with practice
-- Develop through continuous practice
+- Integration of theoretical principles with practical application
+- Continuous validation through real-world implementation
+- Adaptive learning from practical experience
 
 **Mass Line**
-- Everything for the masses, everything relying on the masses
-- From the masses, to the masses
-- Concentrate mass wisdom
+- Collective intelligence and participatory decision-making
+- Stakeholder engagement and consensus building
+- Bottom-up problem identification and solution development
 
 **Independence and Self-Reliance**
-- Follow our own path
-- Overcome difficulties through self-reliance
-- Develop creative solutions
+- Creative problem-solving and autonomous development
+- Resource optimization and strategic self-sufficiency
+- Innovation through constraint-based thinking
 
-### 2. Strategic Methods Layer
+### 2. Strategic Methodology Layer
+
 **Military Strategic Principles**
-- Concentrate superior forces, destroy the enemy piecemeal
-- Fight no battle unprepared
-- Preserve ourselves, eliminate difficulties
+- Resource concentration for maximum impact
+- Comprehensive preparation and contingency planning
+- Strategic preservation and selective engagement
 
 **United Front Strategy**
-- Unite all forces that can be united
-- Utilize contradictions, win over the majority
-- Combine unity with struggle
+- Alliance building and stakeholder management
+- Strategic leverage of competitive dynamics
+- Balanced approach combining cooperation and competition
 
 **Strategy and Tactics**
-- Strategically despise difficulties, tactically take them seriously
-- Firmness in principle, flexibility in tactics
-- Advance reasonably, advantageously, and restrainedly
+- Long-term vision with tactical flexibility
+- Principle-based decision-making with adaptive implementation
+- Progressive advancement through strategic positioning
 
 **Rural Areas Encircle Cities**
-- Start from weaker positions to achieve ultimate victory
-- Build strength gradually through strategic accumulation
-- Create favorable conditions through strategic positioning
+- Strategic positioning from competitive disadvantage
+- Incremental strength building and resource accumulation
+- Competitive advantage creation through strategic foresight
 
 ### 3. Organizational Building Layer
 **Democratic Centralism**
